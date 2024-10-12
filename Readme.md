@@ -1,4 +1,4 @@
-Projeto tem como objetivo atender aos requisitos do cliente, que deseja uma lending page com foco nos Leds de arquitetura.
+Projeto tem como objetivo atender aos requisitos do cliente, que deseja uma landing page com foco nos Leds de arquitetura.
 
 Fases
 1º Criar um layout com base no Figma.

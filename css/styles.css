@@ -3,37 +3,101 @@
     margin: 0;
     padding: 0;
     font-family: inter, serif;
-    
 }
 
-/* Titulo e descrição*/
-
+/* Menu com Titulo e descrição*/
 #menuSuperior {
     background: #303030;
     color: #fff;
-    
 }
-
 #titulo_menuSuperior {
     padding-top: 206px;
     padding-left: 62px;
     font-weight: 600;
     font-size: 60px;
 }
-
 #descricao_menuSuperior {
-   padding-left: 60px;
-   padding-bottom: 149px;
-   font-weight: 500;
+    padding: 20px 0 149px 60px;
+    font-weight: 500;
     font-size: 20px;
 }
 
+/* Menu com grid empredimento/experiencia/projetos */
 #menuInformacional {
     background-color: #F9F9F9 ;
     display: grid;
+    grid-column-gap: 10px;
     grid-auto-flow: column;
-    padding:  90px 0 60px 170px;
+    padding:  90px 0 60px 0;
+    justify-content: space-around;
+}
+.menuInformacional_numeros {
+    font-size: 40px ;
+    font-weight: 500;
+}
+.menuInformacional_texto {
+    font-size: large;
+}
 
+/* Menu principal Com  imagem */
+#menuPrincipal {
+    display: grid;
+    grid-auto-flow: column;
+    padding:  90px 54px 92px 72px;
+    align-items: center;
+    gap: 62px;
+}
+.menuPrincipal_titulo {
+    font-size: 40px;
+    font-weight: 500;
+        
+}
+.menuPrincipal_texto {
+    font-size: larger;    
+}
+#img {
+    border-radius: 30px;
+    width: 510px; 
+}
+
+/* Fromulario */
+#formulario {
+    background-color:#303030 ;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 87px 0;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formulario_h2 {
+    margin-bottom: 48px;
+    font-size: 32px;
+    font-weight: 700;
     
 }
 
+input {
+    margin: 0 0 62px 0 ;
+    width: 478px;
+    height: 72px;
+    border-radius: 10px;
+    padding: 0 0 0 30px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #0000003d;
+}
+
+button {
+    background-color: #C07212;
+    color: #fff;
+    font-weight: 700;
+    font-size: 30px;
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+
+}

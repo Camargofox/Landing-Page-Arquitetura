@@ -1,12 +1,14 @@
-Projeto tem como objetivo atender aos requisitos do cliente, que deseja uma landing page com foco nos Leds de arquitetura.
+<h1>Desafio 1 -Desenvolva uma Landing Page</h1>
 
-Fases
-1º Criar um layout com base no Figma.
+<h2>Contexto</h2>
+Um gerente de recrutamento de uma empresa de tecnologia, está procurando um
+novo desenvolvedor para se juntar à equipe, e te contatou para a proposta de trabalho. 
+<br>
+Para avaliar as habilidades dos candidatos, ele decidiu propor um desafio: eles devem
+criar uma landing page como portfólio para uma empresa de arquitetura.
 
-2º Integre o Formulário: O projeto precisa capturar as informações!! Criar a integração com o formulário, usando o Sheet Monkey e suas planilhas no sheets!
+<hr>
+ <h2>Resolução</h2>
 
-3º Disponibilize o projeto no github: Garantir que o projeto está funcionando, testar e, então, criar um repositório no github para poder disponibilizar o projeto por lá!
-
-4º Hospede o site no Netlify: Garantir que qualquer pessoa possa acessá-lo através da hospedagem dele no Netlify.
-
-5º Prepare sua documentação: Deverá colocar os links da planilha e também do o site no README no github, para disponibilização do arquivo.
+Link do site disponibilizado https://arquit-page.netlify.app/ <br>
+Link da planilha de registro de informaçoes https://docs.google.com/spreadsheets/d/1saw_i13G2Xw3c3gv_I6tfDpGffqKbKMzUfx-iLkOpK8/edit?gid=0#gid=0

@@ -11,4 +11,4 @@ criar uma landing page como portfólio para uma empresa de arquitetura.
  <h2>Resolução</h2>
 
 Link do site disponibilizado https://arquit-page.netlify.app/ <br>
-Link da planilha de registro de informaçoes https://docs.google.com/spreadsheets/d/1saw_i13G2Xw3c3gv_I6tfDpGffqKbKMzUfx-iLkOpK8/edit?gid=0#gid=0
+Link da planilha de registro de informaçoes https://docs.google.com/spreadsheets/d/1saw_i13G2Xw3c3gv_I6tfDpGffqKbKMzUfx-iLkOpK8/edit?usp=sharing
